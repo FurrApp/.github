@@ -1,4 +1,4 @@
-<img src="https://github.com/FurrApp/.github/blob/bb66b51ca06d370e6997b826a611ff2d59cbe26e/profile/img/cover-2.png" />
+<img src="https://github.com/FurrApp/.github/blob/2142438f63b75c71277fcb6aa125a2413738e05f/profile/img/cover-2.png" />
 
 The Open Source Project for Furries
 
