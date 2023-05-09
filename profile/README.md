@@ -1,5 +1,7 @@
-# FurrApp
-Open Source Project for Furries
+<img src="img/cover.png" />
 
-¿Qué es?
-¿Cuál es su proposito?
+The Open Source Project for Furries
+
+## ¿Qué es?
+## ¿Cuál es su proposito?
+## Librerias necesarias para su desarrollo
